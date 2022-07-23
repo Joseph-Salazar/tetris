@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\usuario\source\repos\tetris\tetris\source.cpp(183): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\usuario\source\repos\tetris\tetris\source.cpp(659): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+c:\users\usuario\source\repos\tetris\tetris\source.cpp(675): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Tetris.vcxproj -> C:\Users\USUARIO\source\repos\Tetris\Debug\Tetris.exe
